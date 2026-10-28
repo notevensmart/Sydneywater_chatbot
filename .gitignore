@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+.bootstrap/
+.runtime/
+.cache/
+__pycache__/
+.pytest_cache/
+data/snapshots/
+data/*.sqlite*
+data/*results*.jsonl
+data/review/
+*.log
+.streamlit/secrets.toml

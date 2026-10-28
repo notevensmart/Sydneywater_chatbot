@@ -1,0 +1,247 @@
+[
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing.html",
+    "status": "indexed",
+    "sections": 1
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account.html",
+    "status": "alias_not_indexed",
+    "reason": "Redirect hub or duplicated .html suffix; canonical supplied page indexed instead."
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/account-balance.html",
+    "status": "indexed",
+    "sections": 2
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/buying-and-selling-a-property.html",
+    "status": "indexed",
+    "sections": 14
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/buying-and-selling-a-property/certificates-documents-diagrams.html",
+    "status": "indexed",
+    "sections": 14
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/deceased-estates.html",
+    "status": "indexed",
+    "sections": 8
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/deceased-estates/managing-a-deceased-estate.html",
+    "status": "indexed",
+    "sections": 1
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/mailing-address-changes.html",
+    "status": "indexed",
+    "sections": 2
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/name-changes.html",
+    "status": "indexed",
+    "sections": 1
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/pension-rebates.html",
+    "status": "indexed",
+    "sections": 7
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/pension-rebates/pension-rebate-application.html",
+    "status": "excluded",
+    "reason": "Empty or implausibly small extraction"
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account.html",
+    "status": "alias_not_indexed",
+    "reason": "Redirect hub or duplicated .html suffix; canonical supplied page indexed instead."
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/about-my-account.html",
+    "status": "indexed",
+    "sections": 7
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/about-my-account/go-paperless.html",
+    "status": "indexed",
+    "sections": 5
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/about-my-account/go-paperless/go-paperless-terms-conditions.html",
+    "status": "excluded",
+    "reason": "Search excerpt needs manual paragraph sectioning"
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/about-my-account/help-for-agents.html",
+    "status": "indexed",
+    "sections": 12
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/log-in-to-my-account.html",
+    "status": "indexed",
+    "sections": 2
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/register-for-my-account.html",
+    "status": "indexed",
+    "sections": 1
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill.html",
+    "status": "alias_not_indexed",
+    "reason": "Redirect hub or duplicated .html suffix; canonical supplied page indexed instead."
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/bill-payment.html",
+    "status": "indexed",
+    "sections": 2
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/bill-payment/how-to-read-your-bill.html",
+    "status": "indexed",
+    "sections": 2
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/charges-water-usage-calculators.html",
+    "status": "indexed",
+    "sections": 6
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/charges-water-usage-calculators.html.html",
+    "status": "alias_not_indexed",
+    "reason": "Redirect hub or duplicated .html suffix; canonical supplied page indexed instead."
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/charges-water-usage-calculators/calculate-average-daily-water-usage.html",
+    "status": "indexed",
+    "sections": 1
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/charges-water-usage-calculators/calculate-water-usage-charge.html",
+    "status": "indexed",
+    "sections": 1
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/charges-water-usage-calculators/fixed-charges-calculator.html",
+    "status": "indexed",
+    "sections": 2
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill.html",
+    "status": "indexed",
+    "sections": 13
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/accredited-community-agencies.html",
+    "status": "indexed",
+    "sections": 32
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/confidential-help-and-support.html",
+    "status": "indexed",
+    "sections": 1
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/other-help-support.html",
+    "status": "indexed",
+    "sections": 6
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/payment-assistance-finder.html",
+    "status": "indexed",
+    "sections": 1
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/support-community-agencies.html",
+    "status": "indexed",
+    "sections": 6
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/support-community-agencies/accredited-community-agency-application.html",
+    "status": "indexed",
+    "sections": 1
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/our-prices.html",
+    "status": "indexed",
+    "sections": 6
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/our-prices/business-pricing.html",
+    "status": "indexed",
+    "sections": 28
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/our-prices/other-prices.html",
+    "status": "indexed",
+    "sections": 47
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/our-prices/price-proposal.html",
+    "status": "indexed",
+    "sections": 16
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/our-prices/residential-pricing.html",
+    "status": "indexed",
+    "sections": 16
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/payment-options.html",
+    "status": "indexed",
+    "sections": 8
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter.html",
+    "status": "alias_not_indexed",
+    "reason": "Redirect hub or duplicated .html suffix; canonical supplied page indexed instead."
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/about-your-meter.html",
+    "status": "indexed",
+    "sections": 12
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/about-your-meter/smart-meters.html",
+    "status": "indexed",
+    "sections": 7
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-maintenance.html",
+    "status": "indexed",
+    "sections": 8
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-readings.html",
+    "status": "indexed",
+    "sections": 18
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-readings/apply-for-a-meter-test.html",
+    "status": "indexed",
+    "sections": 4
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-readings/apply-for-a-remotely-read-meter.html",
+    "status": "indexed",
+    "sections": 2
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-readings/remotely-read-meters.html",
+    "status": "indexed",
+    "sections": 4
+  },
+  {
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-readings/tell-us-your-reading.html",
+    "status": "indexed",
+    "sections": 1
+  },
+  {
+    "url": "https://www.sydneywater.com.au/contact-us.html",
+    "status": "indexed",
+    "sections": 14
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "id": "accounts_billing",
+    "url": "https://www.sydneywater.com.au/accounts-billing.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Accounts and billing"
+  },
+  {
+    "id": "account_balance",
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/account-balance.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "Account balance"
+  },
+  {
+    "id": "buying_and_selling_a_property",
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/buying-and-selling-a-property.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "Buying and selling a property"
+  },
+  {
+    "id": "certificates_documents_diagrams",
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/buying-and-selling-a-property/certificates-documents-diagrams.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "Certificates, documents and diagrams"
+  },
+  {
+    "id": "deceased_estates",
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/deceased-estates.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "Deceased estates"
+  },
+  {
+    "id": "managing_a_deceased_estate",
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/deceased-estates/managing-a-deceased-estate.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "Managing a deceased estate"
+  },
+  {
+    "id": "mailing_address_changes",
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/mailing-address-changes.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "Mailing address changes"
+  },
+  {
+    "id": "name_changes",
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/name-changes.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "Name changes"
+  },
+  {
+    "id": "pension_rebates",
+    "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/pension-rebates.html",
+    "selector": ".articleLayout",
+    "topic": "assistance",
+    "title": "Pension rebates"
+  },
+  {
+    "id": "my_account",
+    "topic": "account",
+    "title": "About My Account",
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/about-my-account.html",
+    "selector": ".articleLayout"
+  },
+  {
+    "id": "go_paperless",
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/about-my-account/go-paperless.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "Go paperless and win"
+  },
+  {
+    "id": "help_for_agents",
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/about-my-account/help-for-agents.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "My Account for managing agents"
+  },
+  {
+    "id": "log_in_to_my_account",
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/log-in-to-my-account.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "Log in to My Account"
+  },
+  {
+    "id": "register_for_my_account",
+    "url": "https://www.sydneywater.com.au/accounts-billing/my-account/register-for-my-account.html",
+    "selector": ".articleLayout",
+    "topic": "account",
+    "title": "Register for My Account"
+  },
+  {
+    "id": "bill_payment",
+    "topic": "payments",
+    "title": "Bill payment",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/bill-payment.html",
+    "selector": ".articleLayout"
+  },
+  {
+    "id": "read_bill",
+    "topic": "billing",
+    "title": "How to read your bill",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/bill-payment/how-to-read-your-bill.html",
+    "selector": ".articleLayout"
+  },
+  {
+    "id": "charges_water_usage_calculators",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/charges-water-usage-calculators.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Charges and water usage calculators"
+  },
+  {
+    "id": "calculate_average_daily_water_usage",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/charges-water-usage-calculators/calculate-average-daily-water-usage.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Calculate average daily water usage"
+  },
+  {
+    "id": "calculate_water_usage_charge",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/charges-water-usage-calculators/calculate-water-usage-charge.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Calculate water usage charge"
+  },
+  {
+    "id": "fixed_charges_calculator",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/charges-water-usage-calculators/fixed-charges-calculator.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Fixed charges calculator"
+  },
+  {
+    "id": "payment_help",
+    "topic": "assistance",
+    "title": "Help to pay your water bill",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill.html",
+    "selector": ".articleLayout"
+  },
+  {
+    "id": "accredited_community_agencies",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/accredited-community-agencies.html",
+    "selector": ".articleLayout",
+    "topic": "assistance",
+    "title": "Accredited community agencies"
+  },
+  {
+    "id": "confidential_help_and_support",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/confidential-help-and-support.html",
+    "selector": ".articleLayout",
+    "topic": "assistance",
+    "title": "Confidential help and support"
+  },
+  {
+    "id": "other_help_support",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/other-help-support.html",
+    "selector": ".articleLayout",
+    "topic": "assistance",
+    "title": "Other help and support"
+  },
+  {
+    "id": "payment_assistance_finder",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/payment-assistance-finder.html",
+    "selector": ".articleLayout",
+    "topic": "assistance",
+    "title": "Payment assistance finder"
+  },
+  {
+    "id": "support_community_agencies",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/support-community-agencies.html",
+    "selector": ".articleLayout",
+    "topic": "assistance",
+    "title": "Support for community agencies"
+  },
+  {
+    "id": "accredited_community_agency_application",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/support-community-agencies/accredited-community-agency-application.html",
+    "selector": ".articleLayout",
+    "topic": "assistance",
+    "title": "Apply to be an accredited community agency"
+  },
+  {
+    "id": "our_prices",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/our-prices.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Our prices"
+  },
+  {
+    "id": "business_pricing",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/our-prices/business-pricing.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Business pricing"
+  },
+  {
+    "id": "other_prices",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/our-prices/other-prices.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Other prices"
+  },
+  {
+    "id": "price_proposal",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/our-prices/price-proposal.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Our prices for 2025\u201330"
+  },
+  {
+    "id": "residential_prices",
+    "topic": "billing",
+    "title": "Residential pricing",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/our-prices/residential-pricing.html",
+    "selector": ".articleLayout"
+  },
+  {
+    "id": "payment_options",
+    "topic": "payments",
+    "title": "Payment options",
+    "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/payment-options.html",
+    "selector": ".articleLayout"
+  },
+  {
+    "id": "about_your_meter",
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/about-your-meter.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "About your meter"
+  },
+  {
+    "id": "smart_meters",
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/about-your-meter/smart-meters.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Smart meters"
+  },
+  {
+    "id": "meter_maintenance",
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-maintenance.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Meter maintenance"
+  },
+  {
+    "id": "meter_readings",
+    "topic": "billing",
+    "title": "Meter readings",
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-readings.html",
+    "selector": ".articleLayout"
+  },
+  {
+    "id": "apply_for_a_meter_test",
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-readings/apply-for-a-meter-test.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Apply for a meter test"
+  },
+  {
+    "id": "apply_for_a_remotely_read_meter",
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-readings/apply-for-a-remotely-read-meter.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Apply for a remotely read meter"
+  },
+  {
+    "id": "remotely_read_meters",
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-readings/remotely-read-meters.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Remotely read meters"
+  },
+  {
+    "id": "tell_us_your_reading",
+    "url": "https://www.sydneywater.com.au/accounts-billing/reading-your-meter/meter-readings/tell-us-your-reading.html",
+    "selector": ".articleLayout",
+    "topic": "billing",
+    "title": "Tell us your reading"
+  },
+  {
+    "id": "contact",
+    "topic": "contact",
+    "title": "Contact us",
+    "url": "https://www.sydneywater.com.au/contact-us.html",
+    "selector": ".articleLayout"
+  }
+]
