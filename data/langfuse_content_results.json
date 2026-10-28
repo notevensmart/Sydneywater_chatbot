@@ -1,0 +1,22 @@
+{
+  "trace_id": "57699f2615fa834153044b6fdc4df25c",
+  "observations": 14,
+  "root_input_present": true,
+  "root_output_present": true,
+  "root_metadata": {
+    "free_tier": true,
+    "citation_valid": true,
+    "evidence_ids": [
+      "payment_help-003:excerpt"
+    ],
+    "reset": false,
+    "outcome": "answer",
+    "duration_seconds": 4.36,
+    "corpus_version": "8dd678b4-301a-47b1-aaa4-47b0d8970ea0",
+    "actions": [
+      "search_docs"
+    ],
+    "mcp_calls": 1,
+    "model_calls": 2
+  }
+}

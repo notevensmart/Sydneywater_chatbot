@@ -1,0 +1,27 @@
+{
+  "trace_id": "6eae1f05b94d0bc99e36c8d2a1a7d521",
+  "root_count": 1,
+  "roots": [
+    {
+      "input_present": false,
+      "output_present": false,
+      "metadata": {
+        "free_tier": true,
+        "corpus_version": "",
+        "citation_valid": false,
+        "evidence_ids": [],
+        "reset": true,
+        "outcome": "failed",
+        "duration_seconds": 4.875,
+        "error_types": [
+          "ValueError"
+        ],
+        "actions": [
+          "search_docs"
+        ],
+        "mcp_calls": 1,
+        "model_calls": 2
+      }
+    }
+  ]
+}

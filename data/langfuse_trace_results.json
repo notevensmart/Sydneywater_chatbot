@@ -1,0 +1,54 @@
+{
+  "trace_id": "f9805171262706b3128f86c7555329d2",
+  "url": "https://us.cloud.langfuse.com/project/cmveikz2h041xad0kev0bu19p/traces/f9805171262706b3128f86c7555329d2",
+  "code": "answer",
+  "metrics": {
+    "model_calls": 3,
+    "mcp_calls": 2,
+    "actions": [
+      "search_docs",
+      "search_docs"
+    ],
+    "input_tokens": 5125,
+    "output_tokens": 373,
+    "total_tokens": 5498,
+    "duration_seconds": 7.266,
+    "tracing": "configured",
+    "trace_id": "f9805171262706b3128f86c7555329d2"
+  },
+  "verification": {
+    "observations": 21,
+    "types": {
+      "CHAIN": 15,
+      "GENERATION": 3,
+      "TOOL": 2,
+      "SPAN": 1
+    },
+    "content_absent": true,
+    "root_metadata": [
+      {
+        "free_tier": true,
+        "corpus_version": "8dd678b4-301a-47b1-aaa4-47b0d8970ea0",
+        "citation_valid": true,
+        "evidence_ids": [
+          "payment_help-001:excerpt",
+          "payment_help-009:excerpt",
+          "residential_prices-007:excerpt",
+          "residential_prices-008:excerpt"
+        ],
+        "reset": false,
+        "outcome": "answer",
+        "duration_seconds": 7.266,
+        "actions": [
+          "search_docs",
+          "search_docs"
+        ],
+        "mcp_calls": 2,
+        "model_calls": 3
+      }
+    ],
+    "session_ids": [
+      "7f876b63-bfdf-4f8e-8614-28337ec3c66c"
+    ]
+  }
+}

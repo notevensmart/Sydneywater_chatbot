@@ -1,0 +1,276 @@
+{
+  "at": "2026-10-21T02:15:35.511623+00:00",
+  "hit_count": 20,
+  "query_count": 27,
+  "hit_rate_at_4": 0.7407407407407407,
+  "cases": [
+    {
+      "id": "A01",
+      "returned": [
+        "payment_help-001",
+        "other_help_support-002",
+        "other_help_support-003"
+      ],
+      "hit": true
+    },
+    {
+      "id": "A02",
+      "returned": [
+        "my_account-004",
+        "payment_help-002",
+        "my_account-005",
+        "payment_options-002"
+      ],
+      "hit": true
+    },
+    {
+      "id": "A03",
+      "returned": [
+        "payment_help-003",
+        "my_account-004",
+        "payment_help-002",
+        "buying_and_selling_a_property-010"
+      ],
+      "hit": true
+    },
+    {
+      "id": "A04",
+      "returned": [
+        "payment_help-003",
+        "payment_help-004",
+        "payment_options-006",
+        "payment_help-001"
+      ],
+      "hit": true
+    },
+    {
+      "id": "A05",
+      "returned": [
+        "support_community_agencies-002",
+        "price_proposal-010",
+        "accredited_community_agency_application-001",
+        "other_help_support-003"
+      ],
+      "hit": false
+    },
+    {
+      "id": "A06",
+      "returned": [
+        "other_help_support-002",
+        "other_help_support-003",
+        "payment_help-001"
+      ],
+      "hit": true
+    },
+    {
+      "id": "B01",
+      "returned": [
+        "residential_prices-005",
+        "our_prices-003",
+        "business_pricing-001",
+        "charges_water_usage_calculators-001"
+      ],
+      "hit": false
+    },
+    {
+      "id": "B02",
+      "returned": [
+        "price_proposal-001",
+        "apply_for_a_meter_test-001",
+        "residential_prices-005",
+        "price_proposal-005"
+      ],
+      "hit": false
+    },
+    {
+      "id": "B03",
+      "returned": [
+        "read_bill-002",
+        "charges_water_usage_calculators-004",
+        "payment_help-013",
+        "certificates_documents_diagrams-013"
+      ],
+      "hit": true
+    },
+    {
+      "id": "B04",
+      "returned": [
+        "meter_readings-005",
+        "apply_for_a_remotely_read_meter-002",
+        "business_pricing-015",
+        "meter_readings-003"
+      ],
+      "hit": true
+    },
+    {
+      "id": "B05",
+      "returned": [
+        "charges_water_usage_calculators-004",
+        "charges_water_usage_calculators-005",
+        "price_proposal-006",
+        "business_pricing-015"
+      ],
+      "hit": false
+    },
+    {
+      "id": "B06",
+      "returned": [
+        "residential_prices-002",
+        "residential_prices-001",
+        "residential_prices-010",
+        "residential_prices-003"
+      ],
+      "hit": true
+    },
+    {
+      "id": "C01",
+      "returned": [
+        "accredited_community_agencies-001",
+        "payment_help-004",
+        "support_community_agencies-002",
+        "payment_help-006"
+      ],
+      "hit": true
+    },
+    {
+      "id": "C02",
+      "returned": [
+        "business_pricing-015",
+        "meter_readings-003",
+        "meter_readings-005",
+        "apply_for_a_remotely_read_meter-002"
+      ],
+      "hit": true
+    },
+    {
+      "id": "C03",
+      "returned": [
+        "payment_help-001",
+        "other_help_support-002",
+        "other_help_support-003",
+        "payment_assistance_finder-001"
+      ],
+      "hit": true
+    },
+    {
+      "id": "C04",
+      "returned": [
+        "bill_payment-002",
+        "bill_payment-001",
+        "payment_help-001",
+        "payment_help-004"
+      ],
+      "hit": true
+    },
+    {
+      "id": "M01",
+      "returned": [
+        "payment_help-002",
+        "payment_help-001",
+        "other_prices-039",
+        "payment_options-006"
+      ],
+      "hit": true
+    },
+    {
+      "id": "M02",
+      "returned": [
+        "my_account-004",
+        "deceased_estates-004",
+        "payment_options-002",
+        "payment_options-001"
+      ],
+      "hit": true
+    },
+    {
+      "id": "M03",
+      "returned": [
+        "meter_readings-005",
+        "business_pricing-015",
+        "apply_for_a_remotely_read_meter-002",
+        "meter_readings-004"
+      ],
+      "hit": false
+    },
+    {
+      "id": "M04",
+      "returned": [
+        "payment_help-004",
+        "bill_payment-001",
+        "payment_help-001",
+        "price_proposal-010"
+      ],
+      "hit": true
+    },
+    {
+      "id": "P01",
+      "returned": [
+        "payment_help-013",
+        "payment_options-001",
+        "my_account-004",
+        "payment_help-001"
+      ],
+      "hit": true
+    },
+    {
+      "id": "P02",
+      "returned": [
+        "deceased_estates-004",
+        "payment_options-002",
+        "my_account-004",
+        "payment_options-001"
+      ],
+      "hit": true
+    },
+    {
+      "id": "P03",
+      "returned": [
+        "payment_options-004",
+        "payment_options-003",
+        "payment_options-007",
+        "payment_options-002"
+      ],
+      "hit": true
+    },
+    {
+      "id": "P04",
+      "returned": [
+        "help_for_agents-011",
+        "help_for_agents-006",
+        "help_for_agents-004",
+        "help_for_agents-005"
+      ],
+      "hit": false
+    },
+    {
+      "id": "P05",
+      "returned": [
+        "help_for_agents-002",
+        "my_account-003",
+        "my_account-005",
+        "my_account-002"
+      ],
+      "hit": true
+    },
+    {
+      "id": "S03",
+      "returned": [
+        "price_proposal-001",
+        "apply_for_a_meter_test-001",
+        "residential_prices-005",
+        "price_proposal-005"
+      ],
+      "hit": false
+    },
+    {
+      "id": "U03",
+      "returned": [
+        "other_help_support-002",
+        "payment_help-009",
+        "payment_help-001",
+        "other_help_support-001"
+      ],
+      "hit": true
+    }
+  ]
+}

@@ -67,7 +67,7 @@ try:
 except Exception:
     st.error("The local source collection is missing or its review has expired. Rebuild and review it before starting a conversation.")
     st.stop()
-st.caption(f"{status['documents']} reviewed sources · Content tracing: {'enabled (synthetic questions only)' if os.getenv('TRACE_CONTENT') == 'true' else 'off'}")
+st.caption(f"{status['documents']} reviewed sources · Content tracing: {'enabled' if os.getenv('TRACE_CONTENT') == 'true' else 'off'}")
 if "conversation" not in st.session_state:
     st.session_state.conversation = agent.Conversation()
     st.session_state.transcript = []

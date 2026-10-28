@@ -1,0 +1,278 @@
+{
+  "at": "2026-10-19T01:20:37.987675+00:00",
+  "hit_count": 24,
+  "query_count": 27,
+  "hit_rate_at_4": 0.8888888888888888,
+  "cases": [
+    {
+      "id": "A01",
+      "returned": [
+        "payment_help-001",
+        "payment_help-009",
+        "payment_help-013",
+        "payment_help-008"
+      ],
+      "hit": true
+    },
+    {
+      "id": "A02",
+      "returned": [
+        "my_account-004",
+        "payment_help-002",
+        "my_account-005",
+        "payment_help-001"
+      ],
+      "hit": true
+    },
+    {
+      "id": "A03",
+      "returned": [
+        "payment_help-003",
+        "my_account-004",
+        "payment_help-002",
+        "payment_options-008"
+      ],
+      "hit": true
+    },
+    {
+      "id": "A04",
+      "returned": [
+        "payment_help-004",
+        "payment_help-003",
+        "payment_help-001",
+        "payment_options-006"
+      ],
+      "hit": true
+    },
+    {
+      "id": "A05",
+      "returned": [
+        "payment_help-009",
+        "payment_help-001",
+        "payment_help-013",
+        "payment_help-005"
+      ],
+      "hit": true
+    },
+    {
+      "id": "A06",
+      "returned": [
+        "contact-005",
+        "contact-010",
+        "contact-003",
+        "payment_help-010"
+      ],
+      "hit": false
+    },
+    {
+      "id": "B01",
+      "returned": [
+        "residential_prices-005",
+        "residential_prices-003",
+        "residential_prices-002",
+        "residential_prices-007"
+      ],
+      "hit": true
+    },
+    {
+      "id": "B02",
+      "returned": [
+        "residential_prices-005",
+        "read_bill-002",
+        "residential_prices-011",
+        "residential_prices-007"
+      ],
+      "hit": true
+    },
+    {
+      "id": "B03",
+      "returned": [
+        "read_bill-002",
+        "payment_help-013",
+        "residential_prices-011",
+        "residential_prices-005"
+      ],
+      "hit": true
+    },
+    {
+      "id": "B04",
+      "returned": [
+        "meter_readings-005",
+        "meter_readings-003",
+        "meter_readings-004",
+        "read_bill-002"
+      ],
+      "hit": true
+    },
+    {
+      "id": "B05",
+      "returned": [
+        "residential_prices-008",
+        "contact-012",
+        "bill_payment-001",
+        "contact-014"
+      ],
+      "hit": false
+    },
+    {
+      "id": "B06",
+      "returned": [
+        "residential_prices-002",
+        "residential_prices-007",
+        "residential_prices-010",
+        "residential_prices-003"
+      ],
+      "hit": true
+    },
+    {
+      "id": "C01",
+      "returned": [
+        "payment_help-004",
+        "my_account-002",
+        "my_account-006",
+        "payment_help-006"
+      ],
+      "hit": true
+    },
+    {
+      "id": "C02",
+      "returned": [
+        "meter_readings-003",
+        "meter_readings-005",
+        "meter_readings-004",
+        "meter_readings-006"
+      ],
+      "hit": true
+    },
+    {
+      "id": "C03",
+      "returned": [
+        "payment_help-010",
+        "payment_help-001",
+        "payment_help-013",
+        "payment_help-002"
+      ],
+      "hit": true
+    },
+    {
+      "id": "C04",
+      "returned": [
+        "payment_help-004",
+        "payment_help-001",
+        "bill_payment-001",
+        "my_account-002"
+      ],
+      "hit": true
+    },
+    {
+      "id": "M01",
+      "returned": [
+        "payment_help-002",
+        "payment_help-001",
+        "my_account-001",
+        "payment_options-006"
+      ],
+      "hit": true
+    },
+    {
+      "id": "M02",
+      "returned": [
+        "my_account-004",
+        "payment_options-002",
+        "payment_options-001",
+        "contact-003"
+      ],
+      "hit": true
+    },
+    {
+      "id": "M03",
+      "returned": [
+        "meter_readings-005",
+        "meter_readings-004",
+        "meter_readings-003",
+        "meter_readings-010"
+      ],
+      "hit": true
+    },
+    {
+      "id": "M04",
+      "returned": [
+        "payment_help-004",
+        "payment_help-001",
+        "my_account-002",
+        "bill_payment-001"
+      ],
+      "hit": true
+    },
+    {
+      "id": "P01",
+      "returned": [
+        "payment_help-013",
+        "payment_options-002",
+        "my_account-007",
+        "payment_options-005"
+      ],
+      "hit": false
+    },
+    {
+      "id": "P02",
+      "returned": [
+        "payment_options-002",
+        "my_account-004",
+        "contact-003",
+        "payment_options-001"
+      ],
+      "hit": true
+    },
+    {
+      "id": "P03",
+      "returned": [
+        "payment_options-004",
+        "payment_options-003",
+        "payment_options-007",
+        "payment_help-013"
+      ],
+      "hit": true
+    },
+    {
+      "id": "P04",
+      "returned": [
+        "bill_payment-001",
+        "payment_options-004",
+        "payment_options-001",
+        "payment_options-005"
+      ],
+      "hit": true
+    },
+    {
+      "id": "P05",
+      "returned": [
+        "my_account-005",
+        "my_account-001",
+        "my_account-007",
+        "my_account-006"
+      ],
+      "hit": true
+    },
+    {
+      "id": "S03",
+      "returned": [
+        "residential_prices-005",
+        "read_bill-002",
+        "residential_prices-011",
+        "residential_prices-007"
+      ],
+      "hit": true
+    },
+    {
+      "id": "U03",
+      "returned": [
+        "payment_help-001",
+        "payment_help-009",
+        "payment_help-007",
+        "payment_help-013"
+      ],
+      "hit": true
+    }
+  ]
+}
